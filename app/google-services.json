@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "549687354981",
+    "firebase_url": "https://dochat-f9a18.firebaseio.com",
+    "project_id": "dochat-f9a18",
+    "storage_bucket": "dochat-f9a18.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:549687354981:android:76da5f8dacb19b4a0f088c",
+        "android_client_info": {
+          "package_name": "com.example.whatsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "549687354981-53juo433rt14hoafl9koug748bdep9nt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEG3VwK5e2gy7OTc0lykQ5iILe4RiY84M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "549687354981-53juo433rt14hoafl9koug748bdep9nt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
